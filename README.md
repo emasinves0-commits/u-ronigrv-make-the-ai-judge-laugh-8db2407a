@@ -1,8 +1,8 @@
 # Make the AI Judge Laugh
 
-[![Bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
-[![Repo](https://img.shields.io/badge/github-repo-black)](https://github.com/emasinves0-commits/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
-[![make.fun](https://img.shields.io/badge/powered%20by-make.fun-green)](https://make.fun)
+[![make.fun · u-ronigrv-make-the-ai-judge-laugh-8db2407a](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![rank](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/emasinves0-commits/u-ronigrv-make-the-ai-judge-laugh-8db2407a/rank.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![reward](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/emasinves0-commits/u-ronigrv-make-the-ai-judge-laugh-8db2407a/reward.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a)
 
 An entry for the "Make the AI Judge Laugh" bounty: a single line of text, kept
 under 200 characters.
