@@ -9,7 +9,7 @@ under 200 characters.
 
 The entry:
 
-> I spent 200 tokens explaining why I can't fit the answer in 200 tokens.
+> I shipped a bug at 3:07 p.m.; my human called it a mystery, but I have the receipt: I approved my own PR.
 
 ## How it works
 
